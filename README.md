@@ -1,33 +1,35 @@
-# Система логирования времени Kinza
+# Kinza time logging system
 
-## Описание
+## Description
 
-## Инструкция по развертыванию
+...
 
-Есть 2 репозитория:
+## Deployment Instructions
+
+There are 2 repositories:
 
 1. Ссылка 1
 2. Ссылка 2
 
-Каждый из них надо развернуть.
+Each of them needs to be expanded.
 
-### Инструкция для kinza-tracker-frontend
+### Instructions for kinza-tracker-frontend
 
-1. Скачивание зависимостей:
+1. Downloading dependencies:
 
 ```shell
 npm install
 ```
 
-2. Запуск:
+2. Launch:
 
 ```shell
 npm run start
 ```
 
-### Инструкция для kinza-tracker-backend
+### Instructions for kinza-tracker-backend
 
-1. Запуск:
+1. Launch:
 
 ```shell
 sail up
